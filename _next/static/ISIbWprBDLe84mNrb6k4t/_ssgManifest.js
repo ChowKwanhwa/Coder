@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F","\u002Fassets\u002F[chain]\u002F[contractAddress]\u002F[tokenId]","\u002Ftrending","\u002Fzero-gas-collection\u002F[chain]\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
